@@ -5,8 +5,8 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" 
 url: "https://ismetcsahin.github.io/" 
 
-linkedin_username: ismetcsahin
-medium_username: ismetcansahin
+medium_username: ismetcsahin
+linkedin_username: ismetcansahin
 github_username: ismetcsahin
 
 # Build settings
